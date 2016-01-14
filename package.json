@@ -4,12 +4,12 @@
   "description": "My expressworks solutions",
   "main": "index.js",
   "dependencies": {
+    "body-parser": "^1.14.2",
     "express": "^4.13.3",
     "jade": "^1.11.0"
   },
   "devDependencies": {
-    "expressworks": "file:expressworks",
-    "jade": "^1.11.0"
+    "expressworks": "file:expressworks"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
