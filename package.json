@@ -6,7 +6,8 @@
   "dependencies": {
     "body-parser": "^1.14.2",
     "express": "^4.13.3",
-    "jade": "^1.11.0"
+    "jade": "^1.11.0",
+    "stylus": "^0.53.0"
   },
   "devDependencies": {
     "expressworks": "file:expressworks"
@@ -26,6 +27,7 @@
   ],
   "author": "Norman Dela Cruz",
   "license": "LGPL-3.0",
+  "private": true,
   "bugs": {
     "url": "https://github.com/dcnr/expressworks/issues"
   },
